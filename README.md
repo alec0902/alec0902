@@ -1,4 +1,4 @@
-👋 Hi, I’m @alec0902
+👋 Hi, I’m Alec ( @alec0902 )
 
 👀 I’m interested in technology. I like to know how things are made from basic to its complete form. Being able to make life easier for people is something
 that I want to contribute for the society which is why I really want to learn AI at some point because of Automation! I do other stuffs in my spare time
@@ -14,6 +14,7 @@ AR, VR and more! The good thing about programming is there is always something n
 
 📫 How to reach me. I have a LinkedIn Profile, Discord and my Github profile. You can also reach me through my Email!
 
+Last Updated Jul 2 2020, Friday
 <!---
 alec0902/alec0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
